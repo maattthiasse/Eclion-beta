@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { HashRouter as Router } from 'react-router-dom';
-import Dashboard from './components/MainDashboard.tsx';
+import Dashboard from './components/MainDashboard';
 import TrainingDetail from './components/TrainingDetail.tsx';
 import NewTrainingModal from './components/NewTrainingModal.tsx';
 import CalendarView from './components/CalendarView.tsx';
